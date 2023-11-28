@@ -1,7 +1,6 @@
 # nginx_docker
 
 Introduction to docker. Developing a simple docker image for your own server.
-All steps pushed to DEVELOP!
 
 ## Part 1. Ready-made docker
 
